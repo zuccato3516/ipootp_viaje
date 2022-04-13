@@ -1,6 +1,8 @@
 
 <?php 
-
+//ENTREGA N° 1: VIAJE
+//ALUMNOS: TRAVNIK ARMITANO, VALERIA AYLIN, FI3522
+//         ZUCCATO, STEFANO, FI3517
 //Incluyo el archivo que contiene la clase Viaje y declaro las variables a usar en el menú.
 
 include 'Viaje.php'; 
