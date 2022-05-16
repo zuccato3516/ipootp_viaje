@@ -1,2 +1,2 @@
 # IPOO TP: Viaje
-TP N° 2, materia IPOO.
+TP N° 3, materia IPOO.
